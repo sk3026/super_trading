@@ -1,0 +1,28 @@
+**COMPANY / RESULTS**  
+- Q1 FY27 revenue reported as **₹1,428 crore**, a 35 % YoY increase; net profit **₹82 crore** (≈6 % rise) and operating margin **11.2 %** (down 170 bps)【S1】.  
+- In the company‑issued press release, Q1 FY27 revenue is **₹1,248 crore**, an 18 % YoY increase; EBITDA **₹140 crore** (2.6 % rise) with margin **11.2 %** (‑170 bps); profit after tax **₹82 crore** (5.9 % rise)【S3】.  
+- Order book stood at **₹3,900 crore** as of 30 Jun 2026, up from **₹3,150 crore** a year earlier【S3】.  
+- Exports contributed **21 %** of Q1 revenue (up from 16 % in Q1 FY26)【S3】.  
+- Shares fell **3.2 %** to ₹1,012 on the NSE after the results announcement【S1】.  
+
+**GROWTH**  
+- Management maintains FY27 full‑year revenue growth guidance of **15‑17 %**【S2】.  
+- Data‑centre cable sales now represent **≈9 %** of domestic revenue and are expected to **double in two years**【S2】.  
+- New Bharuch (Gujarat) plant adds about **30 %** to cable capacity and is slated for commercial production in **Q3 FY27**【S3】.  
+- Bharuch plant capex is **₹620 crore** total, with ~70 % already spent【S2】.  
+- Receivable days rose from **78 to 96** over the last year【S2】.  
+
+**RISKS**  
+- Copper prices rose **≈14 %** in the quarter, compressing margins by 170 bps【S1】; management attributes most margin pressure to copper【S2】.  
+- About **two‑thirds** of contracts have price‑variation clauses that reset with a **1‑2 quarter lag**, exposing the firm to cost‑pass‑through risk【S2】.  
+- Promoter‑pledge level reported as **35 %** of holdings (up from 22 %) raises governance concerns【S4】.  
+- GST demand order of **₹46.3 crore** (including interest/penalty) for FY2020‑21 & FY2021‑22 input‑tax credit; company expects no material impact【S7】.  
+- Increase in receivable days to 96 days may affect cash flow【S2】.  
+
+**OWNERSHIP**  
+- Shareholding pattern (30 Jun 2026): Promoters **58.2 %**, of which **4.1 %** is pledged; FIIs **11.8 %**, DIIs **14.6 %**, public **15.4 %**【S8】.  
+
+**CONFLICTS**  
+- **Revenue figure:** S1 states Q1 revenue **₹1,428 crore** (35 % YoY); S3 states **₹1,248 crore** (18 % YoY)【S1】【S3】.  
+- **Promoter pledge level:** S4 claims **35 %** of promoter holding pledged; S8 reports **4.1 %** pledged of promoter holding【S4】【S8】.  
+- The penalty reported in S6 pertains to **Sarvottam Cable Network**, a local cable‑TV/broadband operator, not Sarvottam Cables Ltd, and is therefore unrelated to the listed company【S6】.  
